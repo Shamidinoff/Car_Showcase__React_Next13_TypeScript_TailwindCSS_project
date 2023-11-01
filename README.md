@@ -2,7 +2,7 @@
 
 React, Next JS 13, TypeScript, Tailwind CSS Project
 
-Time: 1:11:40
+Time: 2:03:59
 
 npm run dev
 
